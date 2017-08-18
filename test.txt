@@ -1,1 +1,6 @@
 hi my name is manoj 
+hkdfah
+
+hello 
+hi 
+this is the modiefied command in the test.txt
